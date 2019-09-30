@@ -11,4 +11,4 @@
 * Import database: MYPHPADMIN -> New -> Import
 * Copy wp-config.php into Applications/MAMP/htdocs/heartsandminds/ overwriting existing file
 * Copy Uploads folder - Images to be copied to wp-content/uploads
-* Copy and rename htaccess.tvt - Applications/MAMP/htdocs/heartsandminds/.htaccess
+* Copy and rename htaccess.txt - Applications/MAMP/htdocs/heartsandminds/.htaccess
